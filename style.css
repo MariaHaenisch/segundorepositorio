@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(230, 230, 206);
+
+}
+h1{
+    font-size: 60px;
+    color: rgb(36, 37, 37);
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 260px;
+    height: 400px;
+    margin: 150px;px;
+    margin-left: 200px;
+    border: 4px solid black;
+}
