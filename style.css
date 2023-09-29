@@ -19,3 +19,11 @@ img{
     margin-left: 200px;
     border: 4px solid black;
 }
+.cabecalho{background-color: aliceblue;
+    display: flex;
+
+}
+.logoimg{
+    width: 300px;
+    margin-left: 50px;
+}
