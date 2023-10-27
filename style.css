@@ -39,3 +39,9 @@ img{
     font-size: 25px;
     padding-left: 20px;
 }
+img {
+    border: 5px solid black;
+}
+p{
+    border: 3px  dotted black;
+}
